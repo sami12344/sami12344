@@ -1,7 +1,7 @@
 
 <img align='center' width='100%' src="./Frame 1.png">
 <h1>MERN STACK DEVELOPER,
- <br>"Sami Islam"</h1>
+ <br>"Sami Islam"</h1> 
  <p align='left' width='47%' >It's me Sami Islam, a mern developer with three years of experience. I specialize in HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, Next.js, and more. My passion lies in crafting engaging websites that merge creativity with functionality. I enjoy collaborating with teams and turning client requirements into visually stunning and user-friendly applications. With a constant thirst for knowledge, I stay up-to-date with the latest industry trends and continuously expand my skillset. I'm excited to connect with fellow professionals, share insights, and contribute to the ever-evolving world of web development. Let's inspire and create together!</p>
  
 
