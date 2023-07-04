@@ -4,7 +4,7 @@
  <br>SAMI ISLAM</h1> 
  <p align='left' width='47%' >It's me Sami Islam, a mern developer with three years of experience. I specialize in HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, Next.js, and more. My passion lies in crafting engaging websites that merge creativity with functionality. I enjoy collaborating with teams and turning client requirements into visually stunning and user-friendly applications. With a constant thirst for knowledge, I stay up-to-date with the latest industry trends and continuously expand my skillset. I'm excited to connect with fellow professionals, share insights, and contribute to the ever-evolving world of web development. Let's inspire and create together!</p>
  <br>
- <br>
+
  <!-- social media -->
 <p align="center">
 <a href="https://dev.to/@sami12344" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@sami12344" height="30" width="40" /></a>
@@ -18,7 +18,7 @@
 <a href="https://medium.com/@freelancersami16203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@freelancersami16203" height="30" width="40" /></a>
 <a href="https://discord.gg/5372" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5372" height="30" width="40" /></a>
 </p>
-<br>
+
  <br>
 <!-- social media ends -->
 <h2 align="left">Skills & Experience</h2>
