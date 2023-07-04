@@ -1,4 +1,3 @@
-
 <img align='center' width='100%' src="/banner.png">
 <h1 align='center'>MERN STACK DEVELOPER
  <br>SAMI ISLAM</h1> 
@@ -28,58 +27,39 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark&bg_color=1A1B25&icon_color=ffffff&hide_border=true&border_radius=0"
+    srcset="https://github-readme-stats.vercel.app/api?username=sami12344&show_icons=true&theme=dark&bg_color=1A1B25&icon_color=ffffff&hide_border=true&border_radius=0"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=sami12344&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img  align='center' width='100%' src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img  align='center' width='100%' src="https://github-readme-stats.vercel.app/api?username=sami12344&show_icons=true" />
 </picture>
-
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=dark&bg_color=1A1B25&icon_color=ffffff&hide_border=true&border_radius=0"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sami12344&layout=compact&show_icons=true&theme=dark&bg_color=1A1B25&icon_color=ffffff&hide_border=true&border_radius=0"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=sami12344&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img  align='center' width='100%' src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img  align='center' width='100%' src="https://github-readme-stats.vercel.app/api?username=sami12344&show_icons=true" />
 </picture>
 
-<img align='left' width='47%' height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sami12344&layout=pie" alt="sami12344's GitHub state">
-<img align='center' width='100%'  src="https://github-readme-stats.vercel.app/api/wakatime?username=sami12344" alt="sami12344's GitHub state">
-
-
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sami12344&label=Profile%20views&color=0e75b6&style=flat" alt="sami12344" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sami12344" alt="sami12344" /></a> </p>
-
-<p align="center"> <a href="https://twitter.com/sami89047551" target="blank"><img src="https://img.shields.io/twitter/follow/sami89047551?logo=twitter&style=for-the-badge" alt="sami89047551" /></a> </p>
-
-
-
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/sami"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sami" /></a><a href="https://ko-fi.com/sami12344"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sami12344" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sami12344&show_icons=true&locale=en&layout=compact" alt="sami12344" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sami12344&show_icons=true&locale=en" alt="sami12344" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sami12344&" alt="sami12344" /></p>
-
-# Blog posts
+## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
 - [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
 - [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
 - [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
 - [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
 <!-- BLOG-POST-LIST:END -->
+
+## Contact
+
+Feel free to email me at freelancersami16203@gmail.com
