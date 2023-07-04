@@ -1,7 +1,9 @@
 <h1>MERN STACK DEVELOPER,
- <br>SAMI ISLAM</h1>
+ <br>"Sami Islam"</h1>
+
 ## I build websites that create impact.
 
+ <p align='left' width='47%' >It's me Sami Islam, a mern developer with three years of experience. I specialize in HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, Next.js, and more. My passion lies in crafting engaging websites that merge creativity with functionality. I enjoy collaborating with teams and turning client requirements into visually stunning and user-friendly applications. With a constant thirst for knowledge, I stay up-to-date with the latest industry trends and continuously expand my skillset. I'm excited to connect with fellow professionals, share insights, and contribute to the ever-evolving world of web development. Let's inspire and create together!</p>
 <img align='left' width='47%' height="400px" src="https://github-readme-stats.vercel.app/api?username=sami12344&show_icons=true&theme=radical" alt="sami12344's GitHub state">
 
 <img align='left' width='47%' height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sami12344&layout=pie" alt="sami12344's GitHub state">
