@@ -1,5 +1,6 @@
-# MERN STACK DEVELOPER, SAMI ISLAM
-## I build websites that impact.
+<h1>MERN STACK DEVELOPER,
+ <br>SAMI ISLAM</h1>
+## I build websites that create impact.
 
 <img align='left' width='47%' height="400px" src="https://github-readme-stats.vercel.app/api?username=sami12344&show_icons=true&theme=radical" alt="sami12344's GitHub state">
 
