@@ -28,19 +28,7 @@
 <br>
 <h1 align='center'><img align='center' width='50%' src="/skill.png"></h1>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=sami12344&show_icons=true&theme=dark&bg_color=1A1B25&icon_color=ffffff&hide_border=true&border_radius=0"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=sami12344&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img  align='center' width='100%' src="https://github-readme-stats.vercel.app/api?username=sami12344&show_icons=true" />
-</picture>
 
-<picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sami12344&layout=compact&show_icons=true&theme=dark&bg_color=1A1B25&icon_color=ffffff&hide_border=true&border_radius=0"
     media="(prefers-color-scheme: dark)"
