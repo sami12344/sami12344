@@ -10,9 +10,9 @@
 
 I turn large technical documentation into books you can study on paper, and I write the checks that prove nothing was lost on the way.
 
-### [MDN’s JavaScript docs as nine printed books, checked line by line](https://github.com/sami12344/mdn-javascript-print-edition)
+### [MDN’s JavaScript docs as nine books, checked line by line](https://github.com/sami12344/mdn-javascript-print-edition)
 
-The whole JavaScript section of MDN, 1,346 articles, laid out as 3,744 A4 pages for people who learn better on paper. Open Volume 1 at *Closures* and it reads like a textbook. My favourite decision is in the checker: it doesn’t trust the HTML I generated, so it pulls every code line back out of the finished PDFs, indentation included, and compares it with MDN’s source. All 6,857 code blocks pass.
+The whole JavaScript section of MDN, 1,346 articles, laid out as 3,744 A4 pages for people who learn better on paper. My favourite decision is in the checker: it doesn’t trust the HTML I generated, so it pulls every code line back out of the finished PDFs, indentation included, and compares it with MDN’s source. All 6,857 code blocks pass.
 
 [Read Volume 1 (PDF)](https://github.com/sami12344/mdn-javascript-print-edition/blob/main/volumes/MDN-JavaScript-Vol01-Guide.pdf) · [See the code-line check](https://github.com/sami12344/mdn-javascript-print-edition/blob/main/generator/verify.py#L267-L319) · [Verification report](https://github.com/sami12344/mdn-javascript-print-edition/blob/main/verification/VERIFICATION-REPORT.md)
 
